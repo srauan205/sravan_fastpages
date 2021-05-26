@@ -39,7 +39,7 @@ baseurl: "/sravan_fastpages" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
+    twitter: srav_twit
     github: fastai
 
 # Set this to true to get LaTeX math equation support
